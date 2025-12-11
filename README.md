@@ -7,7 +7,7 @@ This repo contains the latest version of my resume for software engineering inte
 
 ## **📄 Download Resume**
 
-[**👉 Click to download PDF**](Adwita_Jindal_Resume.pdf)
+[**👉 Click to download PDF**](Adwita_Resume.pdf)
 
 ## 🧑‍💻 About Me
 
